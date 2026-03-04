@@ -1,0 +1,14 @@
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\Restaurant2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\Restaurant2.AssemblyInfoInputs.cache
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\Restaurant2.AssemblyInfo.cs
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\Restaurant2.csproj.CoreCompileInputs.cache
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\bin\Debug\net8.0-windows\Restaurant2.exe
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\bin\Debug\net8.0-windows\Restaurant2.deps.json
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\bin\Debug\net8.0-windows\Restaurant2.runtimeconfig.json
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\bin\Debug\net8.0-windows\Restaurant2.dll
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\bin\Debug\net8.0-windows\Restaurant2.pdb
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\Restaurant2.dll
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\refint\Restaurant2.dll
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\Restaurant2.pdb
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\Restaurant2.genruntimeconfig.cache
+C:\Users\vladc\RiderProjects\Restaurant2\Restaurant2\obj\Debug\net8.0-windows\ref\Restaurant2.dll
